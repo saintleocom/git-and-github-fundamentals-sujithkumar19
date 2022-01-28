@@ -110,9 +110,9 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 # database
 Git is a dispersed Version Control System (VCS), and that implies it is a valuable device for effectively following changes to your code, working together, and sharing.
 - This is Sujith Kumar.
-- My hobbies are playing cricket
+- My hobbies are playing cricket and reading novels.
 - Gain knowledge on new technologies
-
+-
 
 
 
